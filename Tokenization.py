@@ -1,6 +1,4 @@
-
-
-# Tokenization of paragraphs/sentences
+#Tokenization of paragraphs/sentences
 import nltk
 nltk.download()
 
